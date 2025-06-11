@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1749588769 source:c:\users\vkhor\onedrive\Área de trabalho\lista\lista\lista.cpp
+	"lista.h"
+
+1749588625 c:\users\vkhor\onedrive\Área de trabalho\lista\lista\lista.h
+	<iostream>
+
+1749588428 source:c:\users\vkhor\onedrive\Área de trabalho\lista\lista\main.cpp
+	<iostream>
+	"lista.h"
+
